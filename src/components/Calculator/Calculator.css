@@ -1,0 +1,29 @@
+.calculator {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+.button-ctn {
+    display: flex;
+    flex-wrap: wrap;
+    width: 13rem;
+}
+
+.numeric-btn {
+    flex: 1 1 33%;
+    background-color: burlywood;
+}
+
+.alpha-btn {
+    flex: 1 1 33%;
+    background-color: burlywood;
+}
+
+.operations-btn {
+    flex: 1 1 33%;
+    background-color: rgb(163, 93, 63);
+}

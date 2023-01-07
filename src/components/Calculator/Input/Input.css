@@ -1,0 +1,10 @@
+.input {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    width: 11rem;
+    padding: 16px;
+    background-color:black;
+    color: aliceblue;
+    font-weight: 300;
+}
