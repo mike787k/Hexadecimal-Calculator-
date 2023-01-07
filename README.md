@@ -97,11 +97,4 @@ I SHOULD have my input state evaluate to an error value
 AND I should see this error updated in the input state display
 ```
 
-### 4) Code Organizing - 10%
-```text
-AS a DEVELOPER
-WHEN I checkout and navigate your source code
-I SHOULD see the code organized in a logical manner
-AND I should see all my component files listed in their own `components` directory
-AND I should see all my styling files listed in their own `styles` directory
-```
+
