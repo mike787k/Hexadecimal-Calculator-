@@ -2,10 +2,15 @@
 
 ***IMPORTANT: PLEASE DO NOT COPY OR USE THE FOLLOWING SOLUTIONS AND CODES/FILES; THIS WAS MADE FOR A SCHOOL ASSIGNMENT/PROJECT THANK YOU!***
 
-Used ReactJS to create a Hexadecimal Calculator; the buttons for 0 through F, +, -, *, /, = and a clear button are also made.
+Used ReactJS to develop a functional Hexadecimal Calculator
+
+Each functional button is separated and classified based on their different given values
 
 A display bar is also presented where the user can see the current state of the calculator
+Within the display bar, it updates the user the values of the buttons they pressed 
 
-Within the display bar, it shows the user the values of the buttons they pressed so if the user inputs 2 + 2 then in the display bar it displays the total
-amount which would be 4
+Demo:
+
+
+https://github.com/mike787k/Hexadecimal-Calculator-/assets/62160185/46f5760c-2c6e-4564-9339-7020892bf05f
 
